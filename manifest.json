@@ -1,0 +1,61 @@
+{
+    "name": "Mi CV",
+    "short_name": "CV",
+    "description": "Mi Curriculum Vitae",
+    "theme_color": "#2196f3",
+    "background_color": "#222222",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "start_url": "./index.html",
+    "icons": [{
+            "src": "/img/16x16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/64x64.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/128x128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/1024x1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        }
+    ]
+}
