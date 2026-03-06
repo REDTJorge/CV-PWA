@@ -3,21 +3,21 @@ const CACHE_NAME = 'cv-pwa-cache-v1';
 //Son los archivos que se van a cachear para que la aplicación funcione sin conexión a internet
 
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/styles.css',
-  '/main.js',
-  '/manifest.json',
-  '/img/16x16.png',
-  '/img/32x32.png',
-  '/img/64x64.png',
-  '/img/96x96.png',
-  '/img/128x128.png',
-  '/img/192x192.png',
-  '/img/256x256.png',
-  '/img/384x384.png',
-  '/img/512x512.png',
-  '/img/1024x1024.png'
+  './',
+  './index.html',
+  './styles.css',
+  './main.js',
+  './manifest.json',
+  './img/16x16.png',
+  './img/32x32.png',
+  './img/64x64.png',
+  './img/96x96.png',
+  './img/128x128.png',
+  './img/192x192.png',
+  './img/256x256.png',
+  './img/384x384.png',
+  './img/512x512.png',
+  './img/1024x1024.png'
 ];
 
 //Evento de instalación del Service Worker, se encarga de cachear los archivos definidos en urlsToCache
